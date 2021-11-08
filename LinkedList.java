@@ -4,6 +4,7 @@ public class LinkedList<T> {
     public Node<T> head;
     public Node<T> tail;
 
+
     /**
      * method to create Linked List
      * push method is used to add data 1st in last out
