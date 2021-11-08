@@ -12,6 +12,9 @@ public class Stack1<T> {
         obj.insert(56,30,70);
        // System.out.println("Linked List after inserting 30 between 56 and 70: ");
         obj.showLinkedList();
+        System.out.println("Linked list after pop");
+        obj.pop();
+        obj.showLinkedList();
     }
     }
 
